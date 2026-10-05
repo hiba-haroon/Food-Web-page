@@ -1,0 +1,113 @@
+body{
+     background-color: rgba(25, 25, 25);
+}
+.icon{
+     list-style: none;
+     margin-left: 80px;
+     margin-top: -60px;
+     margin-right: 70px;
+}
+.logos{
+     margin-left: 40px;
+     margin-top: 30px;
+}
+.title{
+     color: rgba(251, 183, 24);
+     font-family: WindSong;
+     font-size: 30px;
+}
+.title-2{
+     color: white;
+     font-weight: bold;
+     font-size: 23px;
+     margin-left: 10px;
+     margin-top: -10px;
+     font-family: Arial, Helvetica, sans-serif;
+}
+.li{
+     font-family: Arial, Helvetica, sans-serif;
+     display: flex;
+     margin-left: 290px;
+     margin-top: -20px;
+     gap: 55px;
+     font-size: 14px;
+     color: white;
+     list-style: none;
+}
+.icons1{
+     width: 25px;
+     height: 25px;
+     margin-left: 150px;
+}
+.icons2{
+     width: 28px;
+     height: 28px;
+}
+.butt1{
+     background-color: transparent;
+     border: 2px solid rgba(251, 183, 24);
+     font-family: Arial, Helvetica, sans-serif;
+     color: white;
+     border-radius: 20px;
+     width: 90px;
+     height: 35px;
+     font-size: 14px;
+     margin-left: 90px;
+}
+.text{
+     margin-top: 160px;
+     margin-left: 70px;
+}
+.h1{
+     font-family: Courgette;
+     color: white;
+     font-size: 50px;
+}
+.h2{
+     font-family: Courgette;
+     color: rgba(251, 183, 24);
+     line-height: 15px;
+     font-size: 50px;
+}
+.text p{
+     font-family: Arial, Helvetica, sans-serif;
+     color: white;
+     line-height: 20px;
+     font-size: 13px;
+}
+.butt2{
+     background-color: rgba(251, 183, 24);
+     border: 2px solid rgba(251, 183, 24);
+     border-radius: 40px;
+     font-weight: bold;
+     color: white;
+     width: 100px;
+     height: 32px;
+}
+.pic{
+     margin-top: -280px;
+     margin-left: 850px;
+     filter: drop-shadow(25px 25px 10px black);
+}
+.img{
+     display: flex;
+     margin-top: -80px;
+     margin-left: 60px;
+     width: 50px;
+     height: 50px;
+     gap: 5px;
+}
+.imgs{
+     border-radius: 90px;
+}
+.end{
+     color: white;
+     margin-left: 310px;
+     margin-top: -30px;
+     font-family: Arial, Helvetica, sans-serif;
+}
+.star{
+      width: 90px;
+      margin-left: 340px;
+      margin-top: -35px;
+}
